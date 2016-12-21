@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnemyTank
+comment0.text=\n\ Write\ a\ description\ of\ class\ EnemyTank\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=s
+comment2.target=void\ changeStrategy(EnemyStrategy)
+numComments=3

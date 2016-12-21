@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MapScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ MapScreen\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=targetCity
+comment2.target=void\ plotCities(int)
+comment3.params=cipherObject\ targetCity
+comment3.target=void\ setCipher(cipher,\ int)
+comment4.params=enemyId
+comment4.target=void\ setEnemy(int)
+comment5.params=
+comment5.target=void\ atack()
+comment6.params=myWorld
+comment6.target=void\ setMyWorld(MyWorld)
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RandomUtitility
+comment0.text=\n\ Write\ a\ description\ of\ class\ RandomUtitility\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=RandomUtitility()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=MapScreen\ getMapScreen()
+comment3.text=public\ void\ initializeMapScreenStore()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ for(MapScreen\ map\ \:\ getWorld().getObjects(MapScreen.class))\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ MapScreenRegister.add(map);\n\ \ \ \ \ \ \ \ }\n}
+numComments=4
